@@ -1,0 +1,21 @@
+body {
+    background: url(../images/bg-img.jpeg) rgb(13, 104, 13)  no-repeat 50% 0;
+}
+
+h2 {
+    color: antiquewhite;
+}
+
+h2 {
+    color: antiquewhite;
+}
+
+p {
+    color: antiquewhite;
+    background: rgba(133, 243, 142, 0.5);
+    padding: 20px;
+}
+
+#highlights {
+    background-color: #00ab0e;
+}
